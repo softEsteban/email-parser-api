@@ -1,0 +1,41 @@
+MIME-Version: 1.0
+Date: Sat, 6 Jan 2024 15:19:02 -0500
+Message-ID: <CALcquVmkhcUqjUuiUdizvKv38BXBipBe0SRr0p+66Oc5gtx-Dw@mail.gmail.com>
+Subject: Data send - JSON format
+From: Esteban Toro Aristizabal <estebantoro.ar@gmail.com>
+To: Esteban Toro Aristizabal <estebantoro.ar@gmail.com>
+Content-Type: multipart/alternative; boundary="000000000000ebf3cd060e4cac61"
+
+--000000000000ebf3cd060e4cac61
+Content-Type: text/plain; charset="UTF-8"
+
+Hi!
+
+Hope you are doing great.
+
+I attached the url to the json data you asked for. I took it from an Amazon
+repository with sample data:
+
+
+https://raw.githubusercontent.com/softEsteban/testing-files/main/ses-sns-event.json
+
+
+Hope it helps.
+
+
+Best regards!
+
+--000000000000ebf3cd060e4cac61
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hi!=C2=A0<div><br></div><div>Hope you are doing great.</di=
+v><div><br></div><div>I attached the url to the json data you asked for. I =
+took it from an Amazon repository with sample data:</div><div><br></div><di=
+v><br></div><div><a href=3D"https://raw.githubusercontent.com/softEsteban/t=
+esting-files/main/ses-sns-event.json">https://raw.githubusercontent.com/sof=
+tEsteban/testing-files/main/ses-sns-event.json</a><br></div><div><br></div>=
+<div><br></div><div>Hope it helps.</div><div><br></div><div><br></div><div>=
+Best regards!</div></div>
+
+--000000000000ebf3cd060e4cac61--
