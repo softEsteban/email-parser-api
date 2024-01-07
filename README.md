@@ -2,6 +2,9 @@
 
 *Developer: Esteban Toro Aristizabal*
 
+*Live deployed API: [Email parser API in Render](https://email-parser-api.onrender.com/api)*
+
+
 *Website: [Personal Portfolio](https://etoro-roan.vercel.app/)*
 
 *Client company: [Designli Website](https://designli.co/)*
